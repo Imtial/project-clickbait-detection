@@ -1,0 +1,7 @@
+torch==1.10.2+cu102
+transformers==4.16.2
+transformers[sentencepiece]==4.16.2
+datasets==1.18.3
+pytorch-lightning==1.5.10
+flask==2.0.2
+flask-cors==3.0.10
